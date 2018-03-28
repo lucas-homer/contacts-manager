@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-This was a code-along project from the 3-part blog by Andreas Reiterer. by Andreas Reiterer. 
+This was a code-along project from the 3-part blog by Andreas Reiterer.  
 
 ## Contacts-Manager
 ### [Part One: How to Create a React App with create-react-app](https://www.andreasreiterer.at/web-development/creating-react-app-create-react-app/)
